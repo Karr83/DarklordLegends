@@ -1,2 +1,0 @@
-# DarklordLegends
-tcg
